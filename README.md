@@ -45,6 +45,7 @@ StudyTube is a Chrome extension designed to revolutionize the way students engag
 
 Simply click on the extension button present in the YouTube control menu.
 
+![Screenshot 2025-07-01 084459](https://github.com/user-attachments/assets/c027501b-8826-4edb-94af-019ddfe52c93)
 
 
 ---
